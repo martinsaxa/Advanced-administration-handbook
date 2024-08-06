@@ -41,7 +41,7 @@ WordPress 3.7 introduced an easy to use one-button updater which will take you d
 
 ##### Step 1: Back up your database {#step-1-back-up-your-database}
 
-Perform a backup of your database. All of your WordPress data, such as Users, Posts, Pages, Links, and Categories, are stored in your [MySQL](https://wordpress.org/documentation/article/glossary#mysql) [database](https://codex.wordpress.org/Database_Description). Please read [Backing Up Your Database](https://wordpress.org/article/backing-up-your-database/) for a detailed explanation of this process.
+Perform a backup of your database. All of your WordPress data, such as Users, Posts, Pages, Links, and Categories, are stored in your [MySQL](https://wordpress.org/documentation/article/glossary#mysql) [database](https://codex.wordpress.org/Database_Description). Please read [Backing Up Your Database](https://developer.wordpress.org/advanced-administration/security/backup/database/) for a detailed explanation of this process.
 
 It is extremely important to back up your database before beginning the upgrade. If, for some reason, you find it necessary to revert back to the ‘old' version of WordPress, you may have to restore your database from these backups.
 
